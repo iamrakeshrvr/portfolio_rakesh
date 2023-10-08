@@ -22,7 +22,7 @@ const Header = () => {
             duration: 1.5,
         }}
         className="flex flex-row items-center">
-            {/* social icons */}
+            
             <SocialIcon url="https://www.linkedin.com/in/rakesh-ranganathan-ab9337194?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2BYwEjreKQ7aD4fDFxrddRA%3D%3D" 
             fgColor="white"
             bgColor="transparent"
